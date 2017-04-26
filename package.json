@@ -1,0 +1,29 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "serve": "gulp watch"
+  },
+  "author": "RG/A",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.17.5",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-tap": "^0.1.3",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.10",
+    "run-sequence": "^1.2.2",
+    "scrollmagic": "^2.0.5",
+    "three": "^0.82.1",
+    "velocity-animate": "^1.3.1"
+  }
+}
